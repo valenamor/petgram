@@ -1,10 +1,10 @@
-# Home Fragment
+# Home 
 
 ![](pantallazo_home.png)
 
 ---
 
-# Profile Fragment
+# Profile
 
 ![](pantallazo_profile.png)
 
